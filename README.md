@@ -1,4 +1,4 @@
-# AttriSync
+# AttriSync (WIP_)
 AttriSync, a simple feature for web developers, allows you to dynamically link and synchronize content across multiple elements on your web pages. No more manual updating of repeated content. With AttriSync, you change it once, and it reflects everywhere - instantly.
 
 ## Feature Highlights:
@@ -15,4 +15,4 @@ AttriSync, a simple feature for web developers, allows you to dynamically link a
 
 - Site-Wide Announcements: Need to propagate the same announcement or message across multiple web pages? AttriSync ensures that your message stays consistent and updated in real-time.
 
-Documented Procedures: If you have procedures or guidelines repeated on multiple pages, AttriSync ensures they all stay updated in sync.
+## Documentation coming soon
